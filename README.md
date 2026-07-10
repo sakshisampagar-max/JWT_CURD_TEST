@@ -364,7 +364,7 @@ assets/register.png
 assets/add-note.png
 ```
 
-![Add Note](Add note.png)
+![Add Note](login2.png)
 
 ---
 
