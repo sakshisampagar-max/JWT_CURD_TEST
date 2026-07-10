@@ -353,7 +353,7 @@ assets/login.png
 assets/register.png
 ```
 
-![Register](assets/Screenshot 2026-07-10 112248.png)
+![Register](assets/Screenshot 2026-07-10 112719.png)
 
 ---
 
@@ -364,7 +364,7 @@ assets/register.png
 assets/add-note.png
 ```
 
-![Add Note](assets/Screenshot 2026-07-10 112719.png)
+![Add Note](assets/Screenshot 2026-07-10 112248.png)
 
 ---
 
